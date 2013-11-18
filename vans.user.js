@@ -47,8 +47,6 @@ function newGMap(place)
     +'</div>';
 }
 
-alert("hoho");
-
 $("body").append('<div id="gmap"></div>');
 
 $('.placement').each(function () {
